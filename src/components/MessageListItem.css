@@ -1,0 +1,10 @@
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.thumbnail {
+  height: 100px;
+  width: auto;
+}

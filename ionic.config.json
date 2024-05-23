@@ -1,0 +1,7 @@
+{
+  "name": "are-my-cats-alive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
